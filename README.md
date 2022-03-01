@@ -3,6 +3,7 @@ Encoder and Decoder using Huffman coding that converts string to bit code and vi
 
 Input/Output Specifications:
 The executable "huffman" is going to take four command line arguments depending on its mode of encode or decode.
+
 Encode: /> ./huffman encode plainText.txt codeTable.txt encodedText.txt
 where encode indicates that the program will be in encoding mode;
 plainText.txt will be the path of the file that contains the text that you will encode;
